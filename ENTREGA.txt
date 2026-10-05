@@ -1,12 +1,1 @@
-Destinatário: brennocripto1@gmail.com
-Assunto: SUBSTITUA_PELO_SEU_NOME_COMPLETO_2_Periodo
 
-Corpo do email:
-SUBSTITUA_PELO_LINK_REAL_DO_SEU_REPOSITORIO_PUBLICO
-
-Antes de enviar:
-1. Publique o conteúdo extraído no seu GitHub, com status Public.
-2. Substitua o assunto pelo seu nome completo, usando _ no lugar de espaços.
-3. Substitua o corpo pelo link real do repositório.
-4. Confira se o link abre em janela anônima.
-5. Envie até a data da avaliação correspondente.
