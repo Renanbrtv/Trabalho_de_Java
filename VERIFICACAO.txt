@@ -1,0 +1,6 @@
+Verificação real: compilado e executado com Java 17.
+
+PASSOU: todos certos → 15 de 15; 100,00%.
+PASSOU: nenhum certo → 0 de 15; 0,00%.
+PASSOU: 10 certos → 10 de 15; 66,67%.
+PASSOU: entrada inválida e minúsculas → 15 de 15; 100,00%.
